@@ -3,6 +3,8 @@ data mining, cleaning and processing players' season statistics from the 1991 se
 
 trained on approximately <b> 10000 </b> players instances (28 numerically relevant stats per player) and tested on 4500 players to determine all-nba standing
 
+additionally, used graphing tools in python to extract actionable insights, trends between variables and possible links to support ML techniques such as linear regression
+
 ## Tools Used:
 
 ### Data Mining/Cleaning/Processing:
