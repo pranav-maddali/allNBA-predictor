@@ -12,4 +12,9 @@ trained on approximately <b> 10000 </b> players instances (28 numerically releva
 
 ### ANN:
 - keras
-- scikit learn
+- scikit learn (lin regression, decision tree, random forest)
+
+
+### Plotting:
+- seaborn
+- matplotlib
