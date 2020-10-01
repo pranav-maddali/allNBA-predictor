@@ -14,9 +14,8 @@ additionally, used the CRISP-DM to extract actionable insights and trends betwee
 
 ### ANN:
 - keras
-- scikit learn (lin regression, decision tree, random forest)
+- scikit-learn (lin regression, decision tree, random forest)
 
-
-### Plotting:
+### Visualization:
 - seaborn
 - matplotlib
