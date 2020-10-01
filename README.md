@@ -3,7 +3,7 @@ data mining, cleaning and processing players' season statistics from the 1991 se
 
 trained on approximately <b> 10000 </b> players instances (28 numerically relevant stats per player) and tested on 4500 players to determine ALL-NBA standing
 
-additionally, used graphing tools in python to extract actionable insights and trends between variables and possible links to support ML techniques such as linear regression and graphically represented variables and tables which resulted in a conclusion of the top-5 statistical categories which weigh heavily into the ALL-NBA results
+additionally, used the CRISP-DM to extract actionable insights and trends between variables and possible links to support ML techniques such as linear regression, and graphically represented variables and tables which resulted in the top-5 statistical categories which weigh heavily into the ALL-NBA results
 
 ## Tools Used:
 
